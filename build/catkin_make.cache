@@ -1,0 +1,2 @@
+assignment3/assignment3:assignment3/cartesian_control:assignment3/lwr_robot/lwr_defs:assignment3/robot_sim:assignment3/ur_description:assignment3/urdf_parser_py
+-DCATKIN_DEVEL_PREFIX=/home/abhinandan/Misc/Intro to Robotics/ros_wkspace_asgn3/devel -DCMAKE_INSTALL_PREFIX=/home/abhinandan/Misc/Intro to Robotics/ros_wkspace_asgn3/install -G Unix Makefiles
